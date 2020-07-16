@@ -24,9 +24,6 @@ export function CounterModifier(props: ModifierType) {
         color: props.error ? 'red' : 'black'
     }
 
-    function setButton() {
-        alert('i do nothing');
-    }
 
     return (
         <div className={s.modifier}>
@@ -39,7 +36,7 @@ export function CounterModifier(props: ModifierType) {
                 <input style={inputStyle} type="number" value={props.min} onChange={(e) =>{props.setMin(Number(e.currentTarget.value))}}/>
             </div>
             <div className={s.setValue}>
-                <button className={s.setButton} onClick={setButton}>set</button>
+                <button className={s.setButton}>set</button>
             </div>
         </div>
     )
