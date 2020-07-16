@@ -12,7 +12,7 @@ type ModifierType = {
 
 export function CounterModifier(props: ModifierType) {
 
-    let [active, setActive] =useState(false);
+    let [active, setActive] = useState(false);
 
     if(props.min >= props.max || props.min < 0) {
         props.setError(true);
