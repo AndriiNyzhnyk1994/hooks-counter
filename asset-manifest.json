@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hooks-counter/static/css/main.8e0e84c3.chunk.css",
+    "main.css": "/hooks-counter/static/css/main.078bea31.chunk.css",
     "main.js": "/hooks-counter/static/js/main.667069ab.chunk.js",
     "main.js.map": "/hooks-counter/static/js/main.667069ab.chunk.js.map",
     "runtime-main.js": "/hooks-counter/static/js/runtime-main.88e27496.js",
@@ -8,15 +8,15 @@
     "static/js/2.b64a4f41.chunk.js": "/hooks-counter/static/js/2.b64a4f41.chunk.js",
     "static/js/2.b64a4f41.chunk.js.map": "/hooks-counter/static/js/2.b64a4f41.chunk.js.map",
     "index.html": "/hooks-counter/index.html",
-    "precache-manifest.a4b8fa3c92a89eab705bc0cf2e6cfd9b.js": "/hooks-counter/precache-manifest.a4b8fa3c92a89eab705bc0cf2e6cfd9b.js",
+    "precache-manifest.17c4a073b1f3cab5456a456ea6ed08b8.js": "/hooks-counter/precache-manifest.17c4a073b1f3cab5456a456ea6ed08b8.js",
     "service-worker.js": "/hooks-counter/service-worker.js",
-    "static/css/main.8e0e84c3.chunk.css.map": "/hooks-counter/static/css/main.8e0e84c3.chunk.css.map",
+    "static/css/main.078bea31.chunk.css.map": "/hooks-counter/static/css/main.078bea31.chunk.css.map",
     "static/js/2.b64a4f41.chunk.js.LICENSE.txt": "/hooks-counter/static/js/2.b64a4f41.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.88e27496.js",
     "static/js/2.b64a4f41.chunk.js",
-    "static/css/main.8e0e84c3.chunk.css",
+    "static/css/main.078bea31.chunk.css",
     "static/js/main.667069ab.chunk.js"
   ]
 }
