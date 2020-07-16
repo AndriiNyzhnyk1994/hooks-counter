@@ -1,11 +1,12 @@
 body {
-    background-color: #777675;
+    background: linear-gradient(#5c4569, #404a77);
 }
 
 .App {
     display: flex;
     justify-content: center;
-
+    align-items: center;
+    height: 100vh;
 }
 
 button {
